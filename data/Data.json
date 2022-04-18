@@ -1,0 +1,327 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "title": "Sneaker",
+      "image": "https://shopgiayreplica.com/wp-content/uploads/2020/11/jordan-1-high-travis-scott.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Streetwear",
+      "image": "http://blog.klekt.com/wp-content/uploads/2020/02/Supreme-Naomi-Tee-1160x1067.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Electronics",
+      "image": "https://sc04.alicdn.com/kf/U2789dc4b001c49ffb8ba807549aece76l.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Collectibles",
+      "image": "https://image.made-in-china.com/202f0j00njaYRClZhDqp/Kaw-Home-Shop-Door-Decoration-Resin-Sesame-Street-Dolls-Gifts-Figurines.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Watches",
+      "image": "https://rolex.dafc.com.vn/wp-content/uploads/2020/09/m126603-0001_modelpage_flagship_portrait.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Handbags",
+      "image": "https://cdn1.jolicloset.com/imgr/full/2019/08/140815-1/gucci-multiple-colors-other-handbags.jpg"
+    }
+  ], 
+  "sneaker": [
+      {
+        "id": 1, 
+        "title": "Jordan 11 Retro", 
+        "price": "263 US$", 
+        "price_sell": "178 US$",
+        "sold": "7.749 Sold", 
+        "image": "https://images.stockx.com/360/Air-Jordan-11-Retro-Cool-Grey-2021/Images/Air-Jordan-11-Retro-Cool-Grey-2021/Lv2/img01.jpg?auto=compress&w=480&q=90&dpr=1&updated_at=1631898423&h=320&fm=webp", 
+        "color": "Grey, White", 
+        "releaseDate": "12/11/2017", 
+        "retail": "150 US$"
+      },
+      {
+        "id": 2, 
+        "title": "Yeezy Slide Pure", 
+        "price": "92 US$", 
+        "price_sell": "75 US$",
+        "sold": "5.243 Sold", 
+        "image": "https://images.stockx.com/360/adidas-Yeezy-Slide-Ochre/Images/adidas-Yeezy-Slide-Ochre/Lv2/img01.jpg?auto=compress&w=480&q=90&dpr=1&updated_at=1638805392&h=320&fm=webp",
+        "color": "Brown", 
+        "releaseDate": "11/2/2011",
+        "retail": "70 US$"
+      },
+      {
+        "id": 3, 
+        "title": "Nike Air Force 1", 
+        "price": "99 US$", 
+        "price_sell": "78 US$",
+        "sold": "2.749 Sold", 
+        "image": "https://images.stockx.com/360/Nike-Air-Force-1-Low-White-07/Images/Nike-Air-Force-1-Low-White-07/Lv2/img01.jpg?auto=compress&w=480&q=90&dpr=1&updated_at=1631122839&h=320&fm=webp", 
+        "color": "White", 
+        "releaseDate": "12/3/2020",
+        "retail": "80 US$"
+      },
+      {
+        "id": 4, 
+        "title": "Nike Dunk Low", 
+        "price": "152 US$", 
+        "price_sell": "98 US$",
+        "sold": "2.129 Sold", 
+        "image": "https://images.stockx.com/360/Nike-Dunk-Low-Georgetown/Images/Nike-Dunk-Low-Georgetown/Lv2/img01.jpg?auto=compress&w=480&q=90&dpr=1&updated_at=1634918141&h=320&fm=webp", 
+        "color": "Black, Grey", 
+        "releaseDate": "12/11/2021", 
+        "retail": "130 US$"
+      },
+      {
+        "id": 5, 
+        "title": "Yeezy 450 Resin", 
+        "price": "243 US$", 
+        "price_sell": "178 US$",
+        "sold": "749 Sold", 
+        "image": "https://images.stockx.com/images/adidas-Yeezy-450-Resin.jpg?fit=fill&bg=FFFFFF&w=480&h=320&auto=compress&q=90&dpr=1&trim=color&updated_at=1639069326&fm=webp", 
+        "color": "Green", 
+        "releaseDate": "2/1/2019", 
+        "retail": "290 US$"
+      },
+      {
+        "id": 6, 
+        "title": "New Balance 327", 
+        "price": "298 US$", 
+        "price_sell": "210 US$",
+        "sold": "949 Sold", 
+        "image": "https://images.stockx.com/360/New-Balance-327-White-Moonbeam-Gum-W/Images/New-Balance-327-White-Moonbeam-Gum-W/Lv2/img01.jpg?auto=compress&w=480&q=90&dpr=1&updated_at=1635262603&h=320&fm=webp", 
+        "color": "White", 
+        "releaseDate": "3/8/2020",
+        "retail": "179 US$"
+      },
+      {
+        "id": 7, 
+        "title": "New Balance 327", 
+        "price": "298 US$", 
+        "price_sell": "210 US$",
+        "sold": "649 Sold", 
+        "image": "https://images.stockx.com/images/New-Balance-327-Franck-Muller-Black.jpg?fit=fill&bg=FFFFFF&w=480&h=320&auto=compress&q=90&dpr=1&trim=color&updated_at=1638301233&fm=webp", 
+        "color":"Black, White", 
+        "releaseDate": "1/11/2021",
+        "retail": "150 US$"
+      },
+      {
+        "id": 8, 
+        "title": "Jordan 4 Retro", 
+        "price": "255 US$", 
+        "price_sell": "178 US$",
+        "sold": "7.879 Sold", 
+        "image": "https://images.stockx.com/360/Air-Jordan-4-Retro-Lightning-2021/Images/Air-Jordan-4-Retro-Lightning-2021/Lv2/img01.jpg?auto=compress&w=480&q=90&dpr=1&updated_at=1633023947&h=320&fm=webp", 
+        "color": "Yellow, White", 
+        "releaseDate": "12/7/2018",
+        "retail": "190 US$"
+      },
+      {
+        "id": 9, 
+        "title": "Jordan 12 Retro", 
+        "price": "229 US$", 
+        "price_sell": "178 US$",
+        "sold": "9.749 Sold", 
+        "image": "https://images.stockx.com/360/Air-Jordan-12-Retro-Royalty-Taxi/Images/Air-Jordan-12-Retro-Royalty-Taxi/Lv2/img01.jpg?auto=compress&w=480&q=90&dpr=1&updated_at=1635280285&h=320&fm=webp", 
+        "color": "Black, White",
+        "releaseDate": "2/3/2021", 
+        "retail": "160 US$"
+      }
+  ], 
+  "popular": [
+    {
+      "id": 1,
+      "image": "https://images.contentstack.io/v3/assets/blt818b0c67cf450811/bltbb91c212b5de4d8a/61561b6110d4154779bdba01/jordan.png?format=jpg&auto=webp&width=0.5"
+    },
+    {
+      "id": 2,
+      "image": "https://images.contentstack.io/v3/assets/blt818b0c67cf450811/blt02e2e8c84bc2b6f6/61561a71c3934450a14e395a/supreme_tile.png?format=jpg&auto=webp&width=0.5"
+    },
+    {
+      "id": 3,
+      "image": "https://images.contentstack.io/v3/assets/blt818b0c67cf450811/bltd17af3434fe765f4/61561a892b3bb345f7e7fae9/ps4.png?format=jpg&auto=webp&width=0.5"
+    },
+    {
+      "id": 4,
+      "image": "https://images.contentstack.io/v3/assets/blt818b0c67cf450811/blt9fd4296f268a90bb/61561b4310d4154779bdb9ff/yzy.png?format=jpg&auto=webp&width=0.5"
+    },
+    {
+      "id": 5,
+      "image": "https://images.contentstack.io/v3/assets/blt818b0c67cf450811/blt7680e1627e5b56e7/61561ba72b3bb345f7e7faed/lego.png?format=jpg&auto=webp&width=0.5"
+    }
+  ], 
+  "trending": [
+      {
+        "id": 1, 
+        "title": "Juice Wrld x Vlone", 
+        "price": "50 US$", 
+        "price_sell": "30 US$",
+        "sold": "949 Sold", 
+        "image": "https://images.stockx.com/images/Juice-Wrld-x-Vlone-Butterfly-T-Shirt-White.png?fit=fill&bg=FFFFFF&w=480&h=320&auto=compress&q=90&dpr=1&trim=color&updated_at=1608068137&fm=webp"
+      },
+      {
+        "id": 2, 
+        "title": "Fear of God", 
+        "price": "119 US$", 
+        "price_sell": "98 US$",
+        "sold": "457 Sold", 
+        "image": "https://images.stockx.com/images/Fear-of-God-Essentials-Core-Collection-Pullover-Hoodie-Stretch-Limo.jpg?fit=fill&bg=FFFFFF&w=480&h=320&auto=compress&q=90&dpr=1&trim=color&updated_at=1639003324&fm=webp"
+      },
+      {
+        "id": 3, 
+        "title": "Juice Wrld x Vlone 999", 
+        "price": "50 US$", 
+        "price_sell": "30 US$",
+        "sold": "333 Sold", 
+        "image": "https://images.stockx.com/images/Juice-Wrld-x-Vlone-999-T-Shirt-Black.png?fit=fill&bg=FFFFFF&w=480&h=320&auto=compress&q=90&dpr=1&trim=color&updated_at=1608068134&fm=webp"
+      },
+      {
+        "id": 4, 
+        "title": "FEAR OF GOD", 
+        "price": "158 US$", 
+        "price_sell": "130 US$",
+        "sold": "287 Sold", 
+        "image": "https://images.stockx.com/images/FEAR-OF-GOD-ESSENTIALS-3D-Silicon-Applique-Pullover-Hoodie-Dark-Slate.jpg?fit=fill&bg=FFFFFF&w=480&h=320&auto=compress&q=90&dpr=2&trim=color&updated_at=1625866190&fm=webp"
+      },
+      {
+        "id": 5, 
+        "title": "FEAR OF GOD 3D", 
+        "price": "113 US$", 
+        "price_sell": "100 US$",
+        "sold": "786 Sold", 
+        "image": "https://images.stockx.com/images/FEAR-OF-GOD-ESSENTIALS-Pull-Over-Hoodie-SS21-Cream-Buttercream.jpg?fit=fill&bg=FFFFFF&w=480&h=320&auto=compress&q=90&dpr=1&trim=color&updated_at=1620853884&fm=webp"
+      },
+      {
+        "id": 6, 
+        "title": "Nav x Vlone", 
+        "price": "50 US$", 
+        "price_sell": "45 US$",
+        "sold": "457 Sold", 
+        "image": "https://images.stockx.com/images/Nav-x-Vlone-Bad-Habits-Tee-Black.png?fit=fill&bg=FFFFFF&w=480&h=320&auto=compress&q=90&dpr=1&trim=color&updated_at=1611842129&fm=webp"
+      },
+      {
+        "id": 7, 
+        "title": "Supreme Box Logo", 
+        "price": "355 US$", 
+        "price_sell": "300 US$",
+        "sold": "457 Sold", 
+        "image": "https://images.stockx.com/images/Supreme-Box-Logo-Hooded-Sweatshirt-FW21-Charcoal.jpg?fit=fill&bg=FFFFFF&w=480&h=320&auto=compress&q=90&dpr=1&trim=color&updated_at=1639063231&fm=webp"
+      },
+      {
+        "id": 8, 
+        "title": "Yeezy x Gap Hoodie", 
+        "price": "107 US$", 
+        "price_sell": "100 US$",
+        "sold": "265 Sold", 
+        "image": "https://images.stockx.com/images/Yeezy-x-GAP-Hoodie-Blue.jpg?fit=fill&bg=FFFFFF&w=480&h=320&auto=compress&q=90&dpr=1&trim=color&updated_at=1632921115&fm=webp"
+      }
+  ], 
+  "featured": [
+    {
+      "id": 1, 
+      "title": "Sony PS5 Blu-ray", 
+      "price": "677 US$", 
+      "price_sell": "650 US$",
+      "sold": "1361 Sold", 
+      "image": "https://images.stockx.com/360/Sony-PS5-Playstation-5-Blu-Ray-Edition-Console-White/Images/Sony-PS5-Playstation-5-Blu-Ray-Edition-Console-White/Lv2/img01.jpg?auto=compress&w=480&q=90&dpr=1&updated_at=1605716639&h=320&fm=webp"
+    },
+    {
+      "id": 2, 
+      "title": "Xbox Searies X", 
+      "price": "597 US$", 
+      "price_sell": "570 US$",
+      "sold": "707 Sold", 
+      "image": "https://images.stockx.com/images/Microsoft-Xbox-Series-X-Console-Black.jpg?fit=fill&bg=FFFFFF&w=480&h=320&auto=compress&q=90&dpr=1&trim=color&updated_at=1605821255&fm=webp"
+    },
+    {
+      "id": 3, 
+      "title": "Sony PS5 Digital", 
+      "price": "668 US$", 
+      "price_sell": "40 US$",
+      "sold": "588 Sold", 
+      "image": "https://images.stockx.com/360/Sony-PS5-Playstation-5-Blu-Ray-Edition-Console-White/Images/Sony-PS5-Playstation-5-Blu-Ray-Edition-Console-White/Lv2/img01.jpg?auto=compress&w=480&q=90&dpr=1&updated_at=1605716639&h=320&fm=webp"
+    },
+    {
+      "id": 4, 
+      "title": "Pokemon TCG 25th", 
+      "price": "222 US$", 
+      "price_sell": "200 US$",
+      "sold": "213 Sold", 
+      "image": "https://images.stockx.com/images/Pokemon-TCG-25th-Anniversary-Celebrations-Ultra-Premium-Collection-Box.jpg?fit=fill&bg=FFFFFF&w=480&h=320&auto=compress&q=90&dpr=1&trim=color&updated_at=1630695021&fm=webp"
+    },
+    {
+      "id": 4, 
+      "title": "Xbox Searies X Halo", 
+      "price": "773 US$", 
+      "price_sell": "750 US$",
+      "sold": "179 Sold", 
+      "image": "https://images.stockx.com/images/Microsoft-Xbox-Series-X-1TB-Halo-Infinite-Limited-Edition-Console-Bundle-C8Y-00023.jpg?fit=fill&bg=FFFFFF&w=480&h=320&auto=compress&q=90&dpr=1&trim=color&updated_at=1630078204&fm=webp"
+    },
+    {
+      "id": 5, 
+      "title": "Supreme 2 GUNDAM", 
+      "price": "219 US$", 
+      "price_sell": "200 US$",
+      "sold": "157 Sold", 
+      "image": "https://images.stockx.com/images/SUP-ActionFigure.png?fit=fill&bg=FFFFFF&w=480&h=320&auto=compress&q=90&dpr=1&trim=color&updated_at=1635954423&fm=webp"
+    }
+  ], 
+  "bags": [
+    {
+      "id": 1, 
+      "title": "Telfar Shopping Bag", 
+      "price": "265 US$", 
+      "price_sell": "250 US$",
+      "sold": "157 Sold", 
+      "image": "https://images.stockx.com/images/Telfar-Shopping-Bag-Medium-Chocolate.jpg?fit=fill&bg=FFFFFF&w=480&h=320&auto=compress&q=90&dpr=1&trim=color&trimcolor=ffffff&updated_at=1606323553&fm=webp"
+    }, 
+    {
+      "id": 2, 
+      "title": "Telfar x UGG Shopping Bag", 
+      "price": "298 US$", 
+      "price_sell": "280 US$",
+      "sold": "52 Sold", 
+      "image": "https://images.stockx.com/images/UGG-x-Telfar-Shopping-Bag-Small-Chestnut-222.jpg?fit=fill&bg=FFFFFF&w=480&h=320&auto=compress&q=90&dpr=1&trim=color&trimcolor=ffffff&updated_at=1636034462&fm=webp"
+    }, 
+    {
+      "id": 3, 
+      "title": "Telfar Shopping Bag Olive", 
+      "price": "215 US$", 
+      "price_sell": "190 US$",
+      "sold": "50 Sold", 
+      "image": "https://images.stockx.com/images/Telfar-Shopping-Bag-Small-Dark-Olive.jpg?fit=fill&bg=FFFFFF&w=480&h=320&auto=compress&q=90&dpr=1&trim=color&trimcolor=ffffff&updated_at=1606321615&fm=webp"
+    }, 
+    {
+      "id": 4, 
+      "title": "Telfar Shopping Bag Chocolate", 
+      "price": "188 US$", 
+      "price_sell": "179 US$",
+      "sold": "40 Sold", 
+      "image": "https://images.stockx.com/images/Telfar-Shopping-Bag-Small-Chocolate.jpg?fit=fill&bg=FFFFFF&w=480&h=320&auto=compress&q=90&dpr=1&trim=color&trimcolor=ffffff&updated_at=1606319224&fm=webp"
+    },
+    {
+      "id": 5, 
+      "title": "Telfar x UGG Shopping Bag", 
+      "price": "391 US$", 
+      "price_sell": "380 US$",
+      "sold": "52 Sold", 
+      "image": "https://images.stockx.com/images/UGG-x-Telfar-Shopping-Bag-Medium-Chestnut.jpg?fit=fill&bg=FFFFFF&w=480&h=320&auto=compress&q=90&dpr=1&trim=color&trimcolor=ffffff&updated_at=1617820322&fm=webp"
+    },
+    {
+      "id": 6, 
+      "title": "Telfar Shopping Bag Black", 
+      "price": "345 US$", 
+      "price_sell": "300 US$",
+      "sold": "39 Sold", 
+      "image": "https://images.stockx.com/images/Telfar-Shopping-Bag-Medium-Black-V1.jpg?fit=fill&bg=FFFFFF&w=480&h=320&auto=compress&q=90&dpr=1&trim=color&trimcolor=ffffff&updated_at=1639761456&fm=webp"
+    }
+  ], 
+  "login":{
+    "email": "toannn21@gmail.com", 
+    "password": "123"
+  }
+}
